@@ -1,6 +1,7 @@
 # 💫 About Me:
 I’m an AI/ML enthusiast with a solid foundation in Python, NumPy, Pandas, and<br>Matplotlib. I enjoy building smart, modular solutions that can fit into bigger projects.<br>Always eager to learn, create, and solve real-world problems, I’m ready to bring fresh ideas<br>to the table.
 
+please check out the organization for my hackathon project
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/malhar-singh-317451236) 
